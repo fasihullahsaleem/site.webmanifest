@@ -1,0 +1,23 @@
+  {
+    "name": "FustoF",
+    "short_name": "FustoF",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-4r5RF0FJUo56uZdJpDR8aHhpqNK6k6GygvVwltyoyCoHUnS-_vWe-nVS1OpjQZr6MJWdwBaFJ5_xHw6HyZe-UI1JSrP8wYQxwgXC2lLB5qKs6EaGcayK_i5DF2yXvyAjLFqkwhgE6yMwMM8GDQQLVVNKyRU3fQ7EwB1obu1cG2voR7T60eIywL94/s16000/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBE6xAWl6qQa2ji9eQWaH-BiTzKJ0-G3QnTLnTg8ImnJ9aq6YmtZ2ldBwwqQi2-uPaGIHkBujWC11RgEINCCltruttEYMrM649BJiGtotwL2lj3VTn6B0B9Z1cSCePOZxlLgIx8-A_mG-3Fu2Z5-VyGTZT3mqENK49uWrc0kOhWPJwNYxsuytkWeLz/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.fustof.me"
+}
